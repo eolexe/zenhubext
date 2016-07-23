@@ -1,0 +1,27 @@
+<!-- Issues Template v1.0 -->
+
+## Issue Workflow
+<!-- This section is to help team to ensure the issue is properly documented before handing off to development. -->
+
+- [x] New Issue is ready to be reviewed by repo owner or one of the core team members (@eolexe)
+- [ ] Issue clarified and all sections are fulfiled.
+- [ ] Issue estimated. (using zenhub)
+- [ ] Issue approval & prioritized
+
+
+<!-- Feel free to delete sections that are not applicable -->
+
+## Feature. User Story
+<!-- As a (persona), I want/need (some action / ability), in order to (benefit / business value). -->
+
+## Defect. Steps to Reproduce
+
+As a (persona / User) on (browser) on (device) follow these steps to see the issues.
+
+* 
+* 
+* 
+
+## Annotated Wireframes / Screenshots
+
+## Tasks
